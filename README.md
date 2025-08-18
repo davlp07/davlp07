@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🚀 FullStack Developer Portfolio  
 
-<!--
-**davlp07/davlp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
 
-Here are some ideas to get you started:
+Hi! I'm **davlp07**, a passionate FullStack Developer student with a love for technology and continuous learning. I thrive on building applications and expanding my skill set—always excited to explore new tools and frameworks!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+
+- **Languages & Frameworks**  
+  - JavaScript (JS)  
+  - TypeScript (TS)  
+  - NodeJS  
+  - Express  
+  - React  
+  - NextJS  
+  - Tailwind  
+
+- **Database & ORM**  
+  - MySQL  
+  - Sequelize  
+  - MongoDB  
+
+- **Frontend**  
+  - HTML  
+  - CSS  
+  - SCSS  
+
+## 🔥 What Drives Me  
+
+I'm enthusiastic about the technology area and genuinely love learning more every day. Whether it's trying out a new framework, solving a tough bug, or contributing to open source, I'm always looking for my next challenge.  
+
+## 📫 How to Reach Me  
+
+- GitHub: [davlp07](https://github.com/davlp07)  
+- LinkedIn: [Davi Lopes](https://www.linkedin.com/in/davi-lopes-b452822a6/)  
+
+---
+
+✨ *Thanks for visiting my portfolio! Let's connect and build something awesome together.*  
