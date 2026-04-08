@@ -13,7 +13,8 @@ Hi! I'm **davlp07**, a passionate FullStack Developer student with a love for te
   - Express  
   - React  
   - NextJS  
-  - Tailwind  
+  - Tailwind
+  - Rust
 
 - **Database & ORM**  
   - MySQL  
