@@ -19,7 +19,8 @@ Hi! I'm **davlp07**, a passionate FullStack Developer student with a love for te
 - **Database & ORM**  
   - MySQL  
   - Sequelize  
-  - MongoDB  
+  - MongoDB
+  - Prisma
 
 - **Frontend**  
   - HTML  
